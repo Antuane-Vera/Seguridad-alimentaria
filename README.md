@@ -1,6 +1,6 @@
 # Inseguridad alimentaria en el Perú, 2025
 
-Mapa de la población con inseguridad alimentaria moderada o severa por departamento. Sobre el mapa se ubican las doce Zonas de Agrobiodiversidad reconocidas por el Midagri.
+Mapa de la población con inseguridad alimentaria moderada o severa por departamento. Sobre el mapa se ubican las doce Zonas de Agrobiodiversidad reconocidas por el Midagri. [Fuente](https://www.gob.pe/institucion/inia/noticias/888597-inia-implementa-plataforma-web-de-zonas-de-agrobiodiversidad-del-peru-zabd-peru).
 
 ![Mapa de inseguridad alimentaria por departamento, 2025](salida/mapa_inseguridad_alimentaria_2025.png)
 
