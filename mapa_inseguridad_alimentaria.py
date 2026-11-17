@@ -161,9 +161,9 @@ def main():
 
     fig.text(0.04, 0.015,
              "Las cifras son estimaciones de encuesta: solo Loreto, Puno, Piura, Ucayali y Lambayeque superan con claridad el\n"
-             "promedio nacional (su intervalo de confianza al 95% no se cruza con el nacional). Lima se muestra como la publica\n"
-             "el INEI: Lima Metropolitana y resto de provincias. Las zonas de agrobiodiversidad son las reconocidas por el\n"
-             "Midagri a junio de 2026; cada punto marca el distrito donde se ubica la zona, no sus límites.\n"
+             "promedio nacional (su intervalo de confianza al 95% no se cruza con el nacional).\n"
+             "Las zonas de agrobiodiversidad son las reconocidas por el Midagri a junio de 2026; cada punto marca\n"
+             "el distrito donde se ubica la zona, no sus límites.\n"
              "Fuente: INEI, Encuesta Nacional de Hogares 2025, módulo FIES (Cuadro I.1). Límites: juaneladio/peru-geojson.",
              fontsize=8, color=TINTA_2, ha="left", va="bottom", linespacing=1.45)
 
