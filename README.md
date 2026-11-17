@@ -1,6 +1,6 @@
 # Inseguridad alimentaria en el Perú, 2025
 
-Mapa de la población con inseguridad alimentaria moderada o severa por departamento, hecho en Python con la primera medición oficial del INEI (ENAHO 2025, escala FIES).
+Mapa de la población con inseguridad alimentaria moderada o severa por departamento
 
 ![Mapa de inseguridad alimentaria por departamento, 2025](salida/mapa_inseguridad_alimentaria_2025.png)
 
