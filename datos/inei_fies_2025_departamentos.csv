@@ -1,0 +1,27 @@
+puesto,ubigeo_dep,clave_mapa,ambito,ia_mod_sev_pct,ic95_inf,ic95_sup,cv_pct,frente_al_nacional,grupo_ia_severa,ia_severa_grupo_inf,ia_severa_grupo_sup
+1,16,16,Loreto,46.9,43.1,50.7,4.1,por encima,Grupo 1,7.4,10.0
+2,21,21,Puno,43.4,38.4,48.4,5.8,por encima,Grupo 2,3.6,4.7
+3,20,20,Piura,38.3,35.0,41.6,4.4,por encima,Grupo 2,3.6,4.7
+4,25,25,Ucayali,36.7,32.1,41.2,6.3,por encima,Grupo 2,3.6,4.7
+5,14,14,Lambayeque,35.9,32.2,39.5,5.2,por encima,Grupo 2,3.6,4.7
+6,05,05,Ayacucho,35.2,30.7,39.6,6.5,no se distingue,Grupo 3,2.0,2.7
+7,17,17,Madre de Dios,33.5,27.2,39.8,9.6,no se distingue,Grupo 1,7.4,10.0
+8,08,08,Cusco,32.4,28.1,36.6,6.7,no se distingue,Grupo 4,0.9,1.4
+9,06,06,Cajamarca,31.9,28.5,35.2,5.4,no se distingue,Grupo 3,2.0,2.7
+10,09,09,Huancavelica,30.9,26.5,35.4,7.4,no se distingue,Grupo 3,2.0,2.7
+11,15,15R,Lima (resto de provincias),30.4,27.0,33.7,5.6,no se distingue,Grupo 2,3.6,4.7
+12,10,10,Huánuco,29.9,26.5,33.3,5.8,no se distingue,Grupo 3,2.0,2.7
+13,01,01,Amazonas,29.7,26.3,33.2,6.0,no se distingue,Grupo 4,0.9,1.4
+14,15,1501,Lima Metropolitana (provincia de Lima),28.6,26.1,31.2,4.6,no se distingue,Grupo 2,3.6,4.7
+15,12,12,Junín,28.6,25.4,31.9,5.8,no se distingue,Grupo 3,2.0,2.7
+16,24,24,Tumbes,28.6,24.2,33.0,7.8,no se distingue,Grupo 2,3.6,4.7
+17,07,07,Callao,28.5,24.0,33.0,8.1,no se distingue,Grupo 2,3.6,4.7
+18,23,23,Tacna,28.5,24.1,32.9,7.9,no se distingue,Grupo 2,3.6,4.7
+19,22,22,San Martín,27.4,23.9,30.9,6.5,no se distingue,Grupo 3,2.0,2.7
+20,13,13,La Libertad,25.7,22.7,28.8,6.1,por debajo,Grupo 3,2.0,2.7
+21,19,19,Pasco,25.4,20.6,30.2,9.7,no se distingue,Grupo 2,3.6,4.7
+22,04,04,Arequipa,23.9,20.5,27.3,7.3,por debajo,Grupo 3,2.0,2.7
+23,02,02,Áncash,23.0,19.7,26.2,7.2,por debajo,Grupo 4,0.9,1.4
+24,03,03,Apurímac,20.2,15.8,24.6,11.2,por debajo,Grupo 4,0.9,1.4
+25,11,11,Ica,20.1,17.5,22.7,6.7,por debajo,Grupo 4,0.9,1.4
+26,18,18,Moquegua,13.7,10.8,16.6,10.9,por debajo,Grupo 4,0.9,1.4
