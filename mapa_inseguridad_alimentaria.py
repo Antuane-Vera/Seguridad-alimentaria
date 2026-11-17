@@ -169,7 +169,7 @@ def main():
 
     SALIDA.mkdir(exist_ok=True)
     for ext in ("png", "svg"):
-        fig.savefig(SALIDA / f"mapa_inseguridad_alimentaria_2025.{ext}", dpi=200, facecolor=FONDO)
+        fig.savefig(SALIDA / f"mapa_inseguridad_alimentaria_2025_1.{ext}", dpi=200, facecolor=FONDO)
     print("Mapa guardado en", SALIDA)
 
 
