@@ -4,6 +4,7 @@ Mapa de la población con inseguridad alimentaria moderada o severa por departam
 
 ![Mapa de inseguridad alimentaria por departamento, 2025](salida/mapa_inseguridad_alimentaria_2025.png)
 
+
 ## Qué muestra
 
 - En 2025, el 30,5% de la población vivió inseguridad alimentaria moderada o severa.
